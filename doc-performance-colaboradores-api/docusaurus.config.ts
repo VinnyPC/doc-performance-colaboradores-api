@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -75,10 +75,10 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'My Site',
+      title: 'API de Performance de Colaboradores - Documentação',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'performance-colaboradores-api Logo',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -87,9 +87,10 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        { to: 'https://github.com/VinnyPC', label: 'VinnyPC', position: 'left'},
+        { to: 'https://www.linkedin.com/in/viniciussilvadev/', label: 'LinkedIn', position: 'left' },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/VinnyPC/performance-colaboradores-api',
           label: 'GitHub',
           position: 'right',
         },
