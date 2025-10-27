@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Visão geral2
+# Visão geral
 
 Esta API foi desenvolvida para gerenciar e avaliar o desempenho de colaboradores, tanto no aspecto comportamental quanto nas entregas de desafios.
 Ela permite o registro, consulta, atualização e exclusão de avaliações, além do cálculo automático das notas finais por colaborador e período.
