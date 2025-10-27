@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkdoc_performance_colaboradores_api=globalThis.webpackChunkdoc_performance_colaboradores_api||[]).push([[6923],{3300:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/doc-performance-colaboradores-api/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

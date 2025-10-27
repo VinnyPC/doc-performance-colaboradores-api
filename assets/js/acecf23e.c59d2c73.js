@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkdoc_performance_colaboradores_api=globalThis.webpackChunkdoc_performance_colaboradores_api||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/doc-performance-colaboradores-api/blog","blogTitle":"Blog","authorsListPath":"/doc-performance-colaboradores-api/blog/authors"}')}}]);
