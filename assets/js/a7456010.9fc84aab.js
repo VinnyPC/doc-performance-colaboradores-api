@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdoc_performance_colaboradores_api=globalThis.webpackChunkdoc_performance_colaboradores_api||[]).push([[235],{8552:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
