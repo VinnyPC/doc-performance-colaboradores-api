@@ -11,32 +11,35 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: "Facilidade no Acompanhamento de Desempenho",
+    Svg: require("@site/static/img/icons8-performance-100.svg").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Os colaboradores podem visualizar suas avaliações e médias finais de
+        forma centralizada, permitindo um acompanhamento claro de sua evolução
+        profissional.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: "Feedback Transparente",
+    Svg: require("@site/static/img/icons8-comments-96.svg").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        A API fornece avaliações detalhadas por comportamento e desafio,
+        ajudando o colaborador a entender seus pontos fortes e áreas de melhoria
+        com base em dados reais.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: "Crescimento Profissional Orientado a Dados",
+    Svg: require("@site/static/img/icons8-positive-dynamic-96.svg").default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Com as médias e notas finais consolidadas, o usuário tem insights
+        precisos sobre seu desempenho, o que favorece planos de desenvolvimento
+        personalizados e metas mais objetivas.
       </>
     ),
   },
