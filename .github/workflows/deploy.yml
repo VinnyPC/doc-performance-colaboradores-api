@@ -11,7 +11,9 @@ permissions:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-
+    defaults:
+      run:
+        working-directory: doc-performance-colaboradores-api
     steps:
       # 1️⃣ Clona o repositório
       - name: Checkout repository
